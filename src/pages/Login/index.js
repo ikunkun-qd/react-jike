@@ -2,6 +2,7 @@ import './index.scss'
 import { Card, Form, Input, Button } from 'antd'
 import logo from '@/assets/logo.png'
 
+
 const Login = () => {
   //收集表单数据
   const onFinish = (mes) => {
