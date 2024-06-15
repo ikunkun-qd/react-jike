@@ -1,6 +1,6 @@
 const Layout = () => {
   return (
-    <div>登录页</div>
+    <div>首页</div>
   )
 }
 
